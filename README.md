@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sahil Dey</h1>
-<h3 align="center">Innovative and enthusiastic computer science undergrad from NIT Agartala with a passion for</h3>
 
-- 📫 How to reach me **deysagar3001@gmail.com**
+
+- 📫 Reach me at **deysagar3001@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
