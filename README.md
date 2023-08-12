@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Sahil .<br><br>- 🔭 I’m a Computer Science Undergrad from NIT Agartala</p>
+<p align="left">I'm Sahil .<br><br>- 🔭Innovative and enthusiastic computer science undergrad from NIT Agartala with a passion for programming and sharing love for technology.</p>
 
 ###
 
