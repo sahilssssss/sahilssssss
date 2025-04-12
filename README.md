@@ -13,7 +13,7 @@
   </a>
 </div>
 
-## 💻 Full-Stack Developer | Backend Engineer | SDE Enthusiast
+## 💻 Full-Stack Developer | Backend Engineer | SDE | ML Enthusiast
 
 > I build scalable systems, clean APIs, and efficient backend solutions with a focus on performance and reliability.
 
