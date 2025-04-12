@@ -110,16 +110,7 @@
   </div>
 </div>
 
-<div style="background-color: #0d1117; padding: 20px; border-radius: 10px; margin: 20px 0; color: #e6edf3;">
-  <h2 align="center">📈 My GitHub Stats</h2>
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=sahilssssss&show_icons=true&theme=radical" alt="GitHub Stats" />
-  </div>
-  <br>
-  <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilssssss&theme=radical" alt="GitHub Streak" />
-  </div>
-</div>
+
 
 <div style="background: linear-gradient(to right, #232526, #414345); padding: 20px; border-radius: 10px; margin: 20px 0; color: white;">
   <h2 align="center">🔍 What I'm Up To</h2>
@@ -135,14 +126,4 @@
   <h3 align="center">💼 Actively looking for opportunities to contribute, learn, and grow in impactful TECH roles</h3>
 </div>
 
-<div align="center" style="background-color: #0d1117; padding: 20px; border-radius: 10px; margin: 20px 0;">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sahilssssss/sahilssssss/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sahilssssss/sahilssssss/output/pacman-contribution-graph.svg">
-    <img alt="GitHub contribution graph" src="https://raw.githubusercontent.com/sahilssssss/sahilssssss/output/pacman-contribution-graph.svg">
-  </picture>
-</div>
 
-<div align="center" style="margin-top: 30px;">
-  <img src="https://komarev.com/ghpvc/?username=sahilssssss&color=blueviolet" alt="Profile views" />
-</div>
