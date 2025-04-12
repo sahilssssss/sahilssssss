@@ -16,7 +16,7 @@
 </div>
 
 <div style="background-color: #1e2a38; padding: 20px; border-radius: 10px; margin: 20px 0; color: #e6edf3;">
-  <h2 align="center">💻 Full-Stack Developer | Backend Engineer | SDE Enthusiast</h2>
+  <h2 align="center">💻 Full-Stack Developer | Backend Engineer | SDE | ML Enthusiast</h2>
   <p align="center">I build scalable systems, clean APIs, and efficient backend solutions with a focus on performance and reliability.</p>
 </div>
 
