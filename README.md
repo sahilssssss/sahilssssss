@@ -99,17 +99,6 @@
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
 <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
 
-</div>
-
-## 📈 My GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahilssssss&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilssssss&theme=radical" alt="GitHub Streak" />
-</div>
 
 ## 🔍 What I'm Up To
 
@@ -122,16 +111,4 @@
   <h3>💼 Actively looking for opportunities to contribute, learn, and grow in impactful TECH roles</h3>
 </div>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sahilssssss/sahilssssss/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sahilssssss/sahilssssss/output/pacman-contribution-graph.svg">
-    <img alt="GitHub contribution graph" src="https://raw.githubusercontent.com/sahilssssss/sahilssssss/output/pacman-contribution-graph.svg">
-  </picture>
-</div>
 
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sahilssssss&color=blueviolet" alt="Profile views" />
-</div>
